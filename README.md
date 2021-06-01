@@ -31,7 +31,7 @@ Los usuarios deben poder:
 
 ### Enlaces
 
-- URL de la solución: [Agregar URL de la solución aquí] (https://your-solution-url.com)
+- URL de la solución: [Agregar URL de la solución aquí] (https://github.com/lacevedovelez/mentor-card-3-column-preview)
 - URL del sitio en vivo: [Agregar URL del sitio en vivo aquí] (https://your-live-site-url.com)
 
 ## Mi proceso
@@ -53,18 +53,18 @@ Una lista de tecnologías utilizadas dentro del proyecto:
 ***
 Una pequeña introducción sobre la instalación.
 ```
-$ git clone https://github.com/lacevedovelez/mentor-card-stats-preview.git
+$ git clone https://github.com/lacevedovelez/mentor-card-3-column-preview
 $ cd ../path/to/the/file
 Abra el archivo index.html en un navegador.
 ```
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/lacevedovelez/mentor-card-stats-preview/wiki)
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/lacevedovelez/mentor-card-3-column-preview/wiki)
 
 ## Versionado 📌
 
-Usamos [Git](https://git-scm.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/lacevedovelez/mentor-card-stats-preview/tags).
+Usamos [Git](https://git-scm.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/lacevedovelez/mentor-card-3-column-preview/tags).
 
 ## Autores ✒️
 
