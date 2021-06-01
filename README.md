@@ -27,12 +27,12 @@ Los usuarios deben poder:
 
 ### Captura de pantalla
 
-![Image text](https://res.cloudinary.com/dz209s6jk/image/upload/v1618491772/Challenges/t26y9p3veejvbc9biv3f.jpg)
+![Image text](https://res.cloudinary.com/dz209s6jk/image/upload/v1617293265/Challenges/ap7h50kkrdq7zclbokox.jpg)
 
 ### Enlaces
 
 - URL de la solución: [Agregar URL de la solución aquí] (https://github.com/lacevedovelez/mentor-card-3-column-preview)
-- URL del sitio en vivo: [Agregar URL del sitio en vivo aquí] (https://your-live-site-url.com)
+- URL del sitio en vivo: [Agregar URL del sitio en vivo aquí] (https://mentor-card-3-column-preview.netlify.app)
 
 ## Mi proceso
 
